@@ -1,0 +1,141 @@
+competitor_id,competitor_name,rating,review_text,sentiment,date,verified_purchase,helpful_count
+notion_ai,Notion AI,4.5,Finally found a tool that works the way I think,positive,2025-04-15 22:08:52.586186,True,5
+notion_ai,Notion AI,5.0,Saves me hours every week organizing notes,positive,2025-04-23 22:08:52.586388,False,4
+notion_ai,Notion AI,5.0,The AI summarization is incredibly accurate,positive,2025-03-14 22:08:52.586487,True,2
+notion_ai,Notion AI,4.0,"Does what it says, nothing more",neutral,2025-08-31 22:08:52.586577,True,2
+notion_ai,Notion AI,5.0,Love how it automatically links related concepts,positive,2025-08-24 22:08:52.586662,True,1
+notion_ai,Notion AI,3.5,Solid option but expensive for what it offers,neutral,2025-10-12 22:08:52.586761,True,4
+notion_ai,Notion AI,5.0,The AI summarization is incredibly accurate,positive,2025-08-30 22:08:52.586914,False,5
+notion_ai,Notion AI,5.0,Love how it automatically links related concepts,positive,2025-09-26 22:08:52.587073,True,5
+notion_ai,Notion AI,4.5,Love how it automatically links related concepts,positive,2025-07-13 22:08:52.587210,True,5
+notion_ai,Notion AI,5.0,The AI summarization is incredibly accurate,positive,2025-11-13 22:08:52.587325,True,3
+notion_ai,Notion AI,5.0,The AI summarization is incredibly accurate,positive,2025-04-07 22:08:52.587641,True,5
+notion_ai,Notion AI,5.0,Saves me hours every week organizing notes,positive,2025-10-17 22:08:52.587777,False,3
+notion_ai,Notion AI,4.5,Saves me hours every week organizing notes,positive,2025-02-15 22:08:52.587869,True,8
+notion_ai,Notion AI,4.5,Love how it automatically links related concepts,positive,2026-01-09 22:08:52.587950,True,1
+notion_ai,Notion AI,4.5,Love how it automatically links related concepts,positive,2025-10-23 22:08:52.588032,True,5
+notion_ai,Notion AI,4.5,Game-changer for my research workflow,positive,2025-04-19 22:08:52.588110,False,6
+notion_ai,Notion AI,5.0,Love how it automatically links related concepts,positive,2025-04-28 22:08:52.588187,True,7
+notion_ai,Notion AI,4.5,Game-changer for my research workflow,positive,2025-10-13 22:08:52.588264,True,7
+notion_ai,Notion AI,4.0,Solid option but expensive for what it offers,neutral,2025-11-29 22:08:52.588344,False,3
+notion_ai,Notion AI,4.0,"Works well for basic needs, missing some advanced features",neutral,2025-09-10 22:08:52.588499,False,9
+mem_ai,Mem.ai,3.5,Decent but not significantly better than alternatives,neutral,2025-03-06 22:08:52.588606,False,6
+mem_ai,Mem.ai,4.5,Saves me hours every week organizing notes,positive,2025-07-03 22:08:52.588694,False,2
+mem_ai,Mem.ai,4.0,"Does what it says, nothing more",neutral,2025-03-10 22:08:52.588780,False,5
+mem_ai,Mem.ai,4.5,Game-changer for my research workflow,positive,2025-09-26 22:08:52.588862,False,2
+mem_ai,Mem.ai,4.5,Saves me hours every week organizing notes,positive,2025-05-14 22:08:52.588943,True,9
+mem_ai,Mem.ai,5.0,The AI summarization is incredibly accurate,positive,2025-02-25 22:08:52.589073,False,5
+mem_ai,Mem.ai,5.0,The AI summarization is incredibly accurate,positive,2025-01-29 22:08:52.589161,False,10
+mem_ai,Mem.ai,3.0,Too complicated for my needs,negative,2026-01-11 22:08:52.589314,False,2
+mem_ai,Mem.ai,5.0,Game-changer for my research workflow,positive,2025-04-29 22:08:52.589400,True,7
+mem_ai,Mem.ai,4.0,"Does what it says, nothing more",neutral,2025-07-08 22:08:52.589510,False,7
+mem_ai,Mem.ai,4.5,Game-changer for my research workflow,positive,2025-04-08 22:08:52.589593,True,1
+mem_ai,Mem.ai,4.5,Finally found a tool that works the way I think,positive,2025-08-12 22:08:52.589694,True,7
+mem_ai,Mem.ai,5.0,Finally found a tool that works the way I think,positive,2025-11-07 22:08:52.589769,True,1
+mem_ai,Mem.ai,4.0,"Works well for basic needs, missing some advanced features",neutral,2025-10-15 22:08:52.589845,True,6
+mem_ai,Mem.ai,5.0,Love how it automatically links related concepts,positive,2025-09-05 22:08:52.589926,False,6
+mem_ai,Mem.ai,4.5,Saves me hours every week organizing notes,positive,2025-10-02 22:08:52.590026,True,2
+mem_ai,Mem.ai,3.5,Good tool but has a learning curve,neutral,2025-07-10 22:08:52.590119,False,6
+mem_ai,Mem.ai,4.5,Love how it automatically links related concepts,positive,2025-03-01 22:08:52.590241,True,5
+mem_ai,Mem.ai,4.5,Saves me hours every week organizing notes,positive,2025-03-08 22:08:52.590342,True,0
+mem_ai,Mem.ai,5.0,The AI summarization is incredibly accurate,positive,2025-05-09 22:08:52.590417,True,8
+reflect,Reflect,5.0,Saves me hours every week organizing notes,positive,2025-05-27 22:08:52.590504,True,5
+reflect,Reflect,4.5,Game-changer for my research workflow,positive,2025-04-23 22:08:52.590577,True,6
+reflect,Reflect,4.5,Finally found a tool that works the way I think,positive,2025-10-02 22:08:52.590650,False,3
+reflect,Reflect,4.0,"Works well for basic needs, missing some advanced features",neutral,2025-03-07 22:08:52.590723,True,4
+reflect,Reflect,4.0,"Does what it says, nothing more",neutral,2025-02-05 22:08:52.590796,True,3
+reflect,Reflect,4.0,Solid option but expensive for what it offers,neutral,2025-12-21 22:08:52.590868,True,7
+reflect,Reflect,4.5,Saves me hours every week organizing notes,positive,2025-12-26 22:08:52.590938,True,5
+reflect,Reflect,4.5,Game-changer for my research workflow,positive,2025-10-23 22:08:52.591007,False,5
+reflect,Reflect,5.0,Finally found a tool that works the way I think,positive,2025-08-02 22:08:52.591087,True,3
+reflect,Reflect,3.5,Good tool but has a learning curve,neutral,2025-12-14 22:08:52.591158,True,7
+reflect,Reflect,4.5,The AI summarization is incredibly accurate,positive,2025-03-07 22:08:52.591245,False,8
+reflect,Reflect,4.5,Finally found a tool that works the way I think,positive,2025-10-24 22:08:52.591318,True,8
+reflect,Reflect,4.0,Solid option but expensive for what it offers,neutral,2025-12-13 22:08:52.591389,True,7
+reflect,Reflect,4.5,The AI summarization is incredibly accurate,positive,2025-08-17 22:08:52.591459,True,3
+reflect,Reflect,5.0,Saves me hours every week organizing notes,positive,2025-02-25 22:08:52.591528,True,4
+reflect,Reflect,4.5,Love how it automatically links related concepts,positive,2025-09-07 22:08:52.591599,True,7
+reflect,Reflect,3.5,"Works well for basic needs, missing some advanced features",neutral,2025-03-25 22:08:52.591670,True,3
+reflect,Reflect,5.0,The AI summarization is incredibly accurate,positive,2025-08-03 22:08:52.591744,False,7
+reflect,Reflect,4.5,Saves me hours every week organizing notes,positive,2025-05-09 22:08:52.591818,True,8
+reflect,Reflect,4.5,Game-changer for my research workflow,positive,2025-07-03 22:08:52.591898,False,0
+obsidian,Obsidian,4.5,Game-changer for my research workflow,positive,2025-10-23 22:08:52.591970,False,5
+obsidian,Obsidian,4.0,Solid option but expensive for what it offers,neutral,2025-07-23 22:08:52.592041,True,6
+obsidian,Obsidian,4.5,The AI summarization is incredibly accurate,positive,2025-01-25 22:08:52.592111,True,5
+obsidian,Obsidian,5.0,Saves me hours every week organizing notes,positive,2025-06-24 22:08:52.592181,True,7
+obsidian,Obsidian,4.0,Solid option but expensive for what it offers,neutral,2025-03-08 22:08:52.592251,True,3
+obsidian,Obsidian,5.0,Saves me hours every week organizing notes,positive,2025-08-12 22:08:52.592322,True,1
+obsidian,Obsidian,5.0,Game-changer for my research workflow,positive,2025-03-14 22:08:52.592392,True,2
+obsidian,Obsidian,5.0,Game-changer for my research workflow,positive,2025-05-27 22:08:52.592462,True,11
+obsidian,Obsidian,5.0,Game-changer for my research workflow,positive,2025-08-23 22:08:52.592532,False,8
+obsidian,Obsidian,4.5,The AI summarization is incredibly accurate,positive,2026-01-01 22:08:52.592601,True,6
+obsidian,Obsidian,4.5,Game-changer for my research workflow,positive,2025-09-28 22:08:52.592669,True,6
+obsidian,Obsidian,5.0,Love how it automatically links related concepts,positive,2025-10-04 22:08:52.592738,True,6
+obsidian,Obsidian,5.0,Love how it automatically links related concepts,positive,2025-01-24 22:08:52.592827,True,5
+obsidian,Obsidian,4.5,Finally found a tool that works the way I think,positive,2025-08-01 22:08:52.592899,False,6
+obsidian,Obsidian,4.5,The AI summarization is incredibly accurate,positive,2025-09-30 22:08:52.592971,False,6
+obsidian,Obsidian,5.0,The AI summarization is incredibly accurate,positive,2025-06-08 22:08:52.593045,False,6
+obsidian,Obsidian,5.0,Finally found a tool that works the way I think,positive,2025-12-27 22:08:52.593118,True,6
+obsidian,Obsidian,4.5,Saves me hours every week organizing notes,positive,2025-03-22 22:08:52.593193,True,10
+obsidian,Obsidian,4.0,"Works well for basic needs, missing some advanced features",neutral,2025-01-21 22:08:52.593286,True,5
+obsidian,Obsidian,4.5,Love how it automatically links related concepts,positive,2026-01-14 22:08:52.593367,True,8
+roam,Roam Research,3.0,Missing key features I need,negative,2025-03-26 22:08:52.593445,True,4
+roam,Roam Research,4.5,Game-changer for my research workflow,positive,2026-01-17 22:08:52.593520,False,5
+roam,Roam Research,4.0,Solid option but expensive for what it offers,neutral,2025-12-13 22:08:52.593595,True,1
+roam,Roam Research,4.5,Love how it automatically links related concepts,positive,2025-05-30 22:08:52.593668,True,7
+roam,Roam Research,3.0,Missing key features I need,negative,2025-08-28 22:08:52.593741,True,1
+roam,Roam Research,3.5,Good tool but has a learning curve,neutral,2025-03-22 22:08:52.593813,True,10
+roam,Roam Research,4.0,Decent but not significantly better than alternatives,neutral,2025-11-19 22:08:52.593906,True,2
+roam,Roam Research,3.5,Good tool but has a learning curve,neutral,2025-06-17 22:08:52.593977,True,8
+roam,Roam Research,2.5,Too complicated for my needs,negative,2025-06-19 22:08:52.594055,False,4
+roam,Roam Research,5.0,Love how it automatically links related concepts,positive,2025-10-15 22:08:52.594126,True,3
+roam,Roam Research,4.5,Saves me hours every week organizing notes,positive,2025-06-09 22:08:52.594197,True,4
+roam,Roam Research,4.0,"Does what it says, nothing more",neutral,2025-07-29 22:08:52.594272,True,6
+roam,Roam Research,4.5,Love how it automatically links related concepts,positive,2025-04-07 22:08:52.594344,False,12
+roam,Roam Research,5.0,Saves me hours every week organizing notes,positive,2025-12-21 22:08:52.594416,False,3
+roam,Roam Research,4.5,Love how it automatically links related concepts,positive,2026-01-09 22:08:52.594485,True,8
+roam,Roam Research,4.5,Finally found a tool that works the way I think,positive,2025-06-02 22:08:52.594555,False,6
+roam,Roam Research,5.0,Game-changer for my research workflow,positive,2025-07-12 22:08:52.594625,True,7
+roam,Roam Research,3.5,Decent but not significantly better than alternatives,neutral,2025-12-19 22:08:52.594694,True,7
+roam,Roam Research,4.5,Love how it automatically links related concepts,positive,2025-11-07 22:08:52.594768,True,5
+roam,Roam Research,3.5,"Does what it says, nothing more",neutral,2025-12-31 22:08:52.594839,False,8
+napkin_ai,Napkin.ai,4.5,Finally found a tool that works the way I think,positive,2025-04-25 22:08:52.594911,True,3
+napkin_ai,Napkin.ai,4.5,Saves me hours every week organizing notes,positive,2025-07-31 22:08:52.594982,True,2
+napkin_ai,Napkin.ai,4.0,Good tool but has a learning curve,neutral,2025-05-30 22:08:52.595055,True,4
+napkin_ai,Napkin.ai,3.5,"Works well for basic needs, missing some advanced features",neutral,2025-02-11 22:08:52.595125,True,8
+napkin_ai,Napkin.ai,5.0,Game-changer for my research workflow,positive,2025-11-06 22:08:52.595197,False,5
+napkin_ai,Napkin.ai,4.5,The AI summarization is incredibly accurate,positive,2025-02-02 22:08:52.595285,True,2
+napkin_ai,Napkin.ai,4.0,"Works well for basic needs, missing some advanced features",neutral,2025-08-08 22:08:52.595360,True,4
+napkin_ai,Napkin.ai,4.0,Solid option but expensive for what it offers,neutral,2025-03-10 22:08:52.595432,False,2
+napkin_ai,Napkin.ai,5.0,Finally found a tool that works the way I think,positive,2025-02-07 22:08:52.595504,False,6
+napkin_ai,Napkin.ai,4.5,Saves me hours every week organizing notes,positive,2025-09-16 22:08:52.595594,True,2
+napkin_ai,Napkin.ai,4.0,Decent but not significantly better than alternatives,neutral,2025-05-23 22:08:52.595667,True,7
+napkin_ai,Napkin.ai,4.0,Decent but not significantly better than alternatives,neutral,2025-02-03 22:08:52.595739,True,3
+napkin_ai,Napkin.ai,3.5,"Does what it says, nothing more",neutral,2025-03-22 22:08:52.595830,False,6
+napkin_ai,Napkin.ai,4.0,Good tool but has a learning curve,neutral,2025-10-17 22:08:52.595920,True,3
+napkin_ai,Napkin.ai,4.5,Saves me hours every week organizing notes,positive,2025-07-19 22:08:52.596020,False,5
+napkin_ai,Napkin.ai,5.0,Finally found a tool that works the way I think,positive,2026-01-07 22:08:52.596205,False,6
+napkin_ai,Napkin.ai,5.0,Game-changer for my research workflow,positive,2025-02-10 22:08:52.596302,False,4
+napkin_ai,Napkin.ai,3.0,Customer support is slow to respond,negative,2025-03-24 22:08:52.596383,True,5
+napkin_ai,Napkin.ai,5.0,The AI summarization is incredibly accurate,positive,2026-01-20 22:08:52.596491,True,7
+napkin_ai,Napkin.ai,3.5,"Does what it says, nothing more",neutral,2025-05-15 22:08:52.596574,True,4
+recall,Recall,4.5,Love how it automatically links related concepts,positive,2025-11-23 22:08:52.596657,True,2
+recall,Recall,4.0,Decent but not significantly better than alternatives,neutral,2025-05-24 22:08:52.596742,False,0
+recall,Recall,4.5,Game-changer for my research workflow,positive,2025-12-13 22:08:52.596913,True,4
+recall,Recall,4.5,Love how it automatically links related concepts,positive,2025-03-19 22:08:52.597018,False,5
+recall,Recall,4.5,Finally found a tool that works the way I think,positive,2025-07-12 22:08:52.597100,False,6
+recall,Recall,4.5,Game-changer for my research workflow,positive,2025-03-25 22:08:52.597220,False,7
+recall,Recall,5.0,Game-changer for my research workflow,positive,2025-07-29 22:08:52.597363,False,2
+recall,Recall,4.0,"Works well for basic needs, missing some advanced features",neutral,2025-10-11 22:08:52.597485,True,8
+recall,Recall,4.0,Decent but not significantly better than alternatives,neutral,2025-03-11 22:08:52.597568,True,3
+recall,Recall,3.5,Solid option but expensive for what it offers,neutral,2025-01-31 22:08:52.597684,True,9
+recall,Recall,3.5,"Does what it says, nothing more",neutral,2025-04-25 22:08:52.597767,True,7
+recall,Recall,4.5,Game-changer for my research workflow,positive,2025-04-04 22:08:52.597843,False,3
+recall,Recall,3.5,"Does what it says, nothing more",neutral,2025-12-25 22:08:52.597962,False,6
+recall,Recall,4.5,Saves me hours every week organizing notes,positive,2025-05-03 22:08:52.598051,True,4
+recall,Recall,5.0,Game-changer for my research workflow,positive,2025-08-02 22:08:52.598136,True,8
+recall,Recall,4.5,Love how it automatically links related concepts,positive,2025-08-04 22:08:52.598210,False,5
+recall,Recall,4.0,"Does what it says, nothing more",neutral,2025-05-24 22:08:52.598287,True,5
+recall,Recall,4.5,Saves me hours every week organizing notes,positive,2025-08-14 22:08:52.598370,True,3
+recall,Recall,4.5,Finally found a tool that works the way I think,positive,2025-03-04 22:08:52.598452,True,2
+recall,Recall,3.5,"Does what it says, nothing more",neutral,2025-03-25 22:08:52.598525,True,4

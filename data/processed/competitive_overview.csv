@@ -1,0 +1,8 @@
+competitor_id,name,description,founded_year,ai_added_year,positioning,pricing_free,pricing_lowest,estimated_users,total_funding_usd,latest_valuation_usd
+notion_ai,Notion AI,All-in-one workspace with AI features,2016,2023,Horizontal - Everyone,True,True,30000000,343000000,10000000000.0
+mem_ai,Mem.ai,AI-first networked note-taking,2019,2019,Horizontal - Knowledge Workers,False,False,100000,29500000,100000000.0
+reflect,Reflect,Networked note-taking with AI,2021,2023,Horizontal - Individuals,False,False,50000,11500000,50000000.0
+obsidian,Obsidian,Local-first knowledge base with plugins,2020,2023,Horizontal - Power Users,True,True,1000000,0,
+roam,Roam Research,Networked thought tool,2017,2024,Horizontal - Researchers & Thinkers,False,False,200000,9000000,200000000.0
+napkin_ai,Napkin.ai,AI that turns text into visual diagrams,2023,2023,Vertical - Visual Thinkers,True,True,30000,3000000,15000000.0
+recall,Recall,AI knowledge graph from anything you read,2023,2023,Vertical - Learners,True,True,40000,2000000,10000000.0

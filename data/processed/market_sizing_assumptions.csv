@@ -1,0 +1,4 @@
+category,assumption,rationale,sensitivity,impact_if_wrong
+TAM,25% of global knowledge workers (1.2B) do research synthesis work,Based on job description analysis and McKinsey productivity studies,High,TAM could be 50% lower or 2x higher
+SAM,Only 60% willing to pay for productivity tools,"Many free alternatives exist (Google Docs, free Notion, ChatGPT free tier)",High,Could be 70-80% if value proposition is strong
+SOM,Can capture 10% market share in beachhead (academics) in 12 months,"Strong positioning, clear differentiation, dedicated focus",Very High,SOM could be 5% (pessimistic) to 15% (optimistic)

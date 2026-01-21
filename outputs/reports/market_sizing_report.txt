@@ -1,0 +1,102 @@
+================================================================================
+MARKET SIZING REPORT - TAM/SAM/SOM ANALYSIS
+================================================================================
+
+📊 EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+TAM (Total Addressable Market):         189,250,000 users
+SAM (Serviceable Available Market):      14,307,300 users (  7.6% of TAM)
+SOM (Serviceable Obtainable Market):          1,248 users (  0.0% of TAM)
+
+Revenue Potential (12 months):
+   Paying Customers:                            124
+   Monthly Recurring Revenue (MRR): $         1,872
+   Annual Recurring Revenue (ARR):  $        22,464
+
+
+🌍 TAM BREAKDOWN (Bottom-up)
+--------------------------------------------------------------------------------
+Academics......................................... 13,000,000
+Corporate Researchers............................. 17,000,000
+Consultants.......................................  5,000,000
+Journalists Writers...............................  9,500,000
+Students..........................................  7,000,000
+Analysts.......................................... 12,000,000
+Other Knowledge Workers........................... 15,000,000
+TOTAL............................................. 78,500,000
+
+Top-down Validation:
+   Global knowledge workers: 1,200,000,000
+   Percentage doing research: 25%
+   Total: 300,000,000
+
+
+🎯 SAM FILTERING
+--------------------------------------------------------------------------------
+Starting from TAM: 189,250,000 users
+
+Filter: English Language
+   Percentage: 20%
+   Rationale: English is lingua franca of research, but not everyone comfortable
+   Remaining: 37,850,000 users
+
+Filter: Digital Tool Adoption
+   Percentage: 90%
+   Rationale: High digital adoption in developed markets
+   Remaining: 34,065,000 users
+
+Filter: Ai Tool Willingness
+   Percentage: 70%
+   Rationale: Gartner 2025: 68% of knowledge workers use AI tools
+   Remaining: 23,845,500 users
+
+Filter: Paid Tool Willingness
+   Percentage: 60%
+   Rationale: SaaS penetration in productivity space
+   Remaining: 14,307,300 users
+
+Final SAM: 14,307,300 users
+
+
+🚀 SOM CALCULATION (12-Month Target)
+--------------------------------------------------------------------------------
+Beachhead Segment: Academic Researchers & PhD Students
+   Global Population: 13,000,000
+   English-speaking: 30%
+   Actively Researching: 80%
+   Potential Users: 3,120,000
+
+Market Capture Funnel:
+   1. Potential Users:                     3,120,000 (100.0%)
+   2. Awareness (GTM campaigns):              156,000 (  5.0%)
+   3. Sign-ups:                                31,200 ( 20.0% of aware)
+   4. Activated Users:                         12,480 ( 40.0% of signups)
+   5. Our Market Share (10%):                   1,248 ( 10.0% of activated)
+
+
+📋 KEY ASSUMPTIONS
+--------------------------------------------------------------------------------
+1. [TAM] 25% of global knowledge workers (1.2B) do research synthesis work
+   Rationale: Based on job description analysis and McKinsey productivity studies
+   Sensitivity: High
+   Impact if wrong: TAM could be 50% lower or 2x higher
+
+2. [SAM] Only 60% willing to pay for productivity tools
+   Rationale: Many free alternatives exist (Google Docs, free Notion, ChatGPT free tier)
+   Sensitivity: High
+   Impact if wrong: Could be 70-80% if value proposition is strong
+
+3. [SOM] Can capture 10% market share in beachhead (academics) in 12 months
+   Rationale: Strong positioning, clear differentiation, dedicated focus
+   Sensitivity: Very High
+   Impact if wrong: SOM could be 5% (pessimistic) to 15% (optimistic)
+
+✅ CONFIDENCE LEVELS
+--------------------------------------------------------------------------------
+TAM Confidence: Medium
+SAM Confidence: Medium-High
+SOM Confidence: Medium
+
+Overall Assessment: Medium confidence. TAM is well-documented from
+multiple sources. SAM has reasonable filters. SOM depends heavily on
+execution quality and market capture rates.

@@ -1,0 +1,100 @@
+================================================================================
+PRICING STRATEGY RECOMMENDATION
+================================================================================
+
+💰 PROPOSED PRICING TIERS
+--------------------------------------------------------------------------------
+
+FREE TIER
+   Price: FREE
+   Features:
+      • 50 documents maximum
+      • Basic AI summarization
+      • Manual linking only
+      • Limited knowledge graph (50 nodes)
+      • Individual use only
+
+PRO TIER
+   Price: $15/month ($144/year)
+   Features:
+      • Unlimited documents
+      • Advanced cross-source synthesis
+      • Automatic linking & knowledge graph
+      • Academic database integration
+      • Citation export (BibTeX, RIS)
+      • Version history (30 days)
+      • Priority support
+   Target: PhD students, early-career researchers
+   Value Prop: Complete literature review in 60% less time
+
+TEAM TIER
+   Price: $30/month ($288/year)
+   Features:
+      • Everything in Pro
+      • Shared knowledge bases
+      • Collaborative synthesis
+      • Team permissions
+      • Admin dashboard
+      • SSO (Google, Microsoft)
+      • API access
+      • Custom integrations
+   Target: Research labs, consulting teams
+   Value Prop: Shared team intelligence, faster onboarding
+
+
+📊 COMPETITIVE POSITIONING
+--------------------------------------------------------------------------------
+Average Competitor Price: $11.77/month
+Our Price (Pro Tier): $15.00/month
+Premium vs Average: +27.4%
+
+Rationale for Premium:
+   • Vertical specialization (research synthesis) vs horizontal tools
+   • Deep academic database integration (unique value)
+   • Delivers $1875/month in value
+   • ROI: 12400% monthly
+
+
+🧮 UNIT ECONOMICS VALIDATION
+--------------------------------------------------------------------------------
+Customer Lifetime Value (LTV): $220.00
+Customer Acquisition Cost (CAC): $35.00
+LTV/CAC Ratio: 6.3x (Excellent)
+Payback Period: 3.2 months (Excellent)
+Gross Margin: 73.3% (Excellent)
+
+Break-even Analysis:
+   Monthly Fixed Costs: $70,000
+   Paying Users Needed: 6,363
+   MRR Required: $95,455
+
+
+✅ STRATEGIC RECOMMENDATIONS
+--------------------------------------------------------------------------------
+1. PRICING TIER STRATEGY
+   • Launch with 3 tiers: Free, Pro ($15), Team ($30)
+   • Free tier is generous (50 documents) to drive virality
+   • Pro tier targets individual researchers (80% of market)
+   • Team tier for research labs (20% of market, 2x ARPU)
+
+2. FREE-TO-PAID CONVERSION
+   • Target: 10% conversion rate in first 6 months
+   • Tactics: Email nurture, usage-based upgrades, social proof
+   • Trigger: When user hits 50 document limit or needs citation export
+
+3. PRICING TESTS TO RUN
+   • Test $12 vs $15 vs $18 for Pro tier
+   • Test annual discount (20% vs 25% vs 30%)
+   • Test freemium limit (25 vs 50 vs 100 documents)
+
+4. ANNUAL PREPAY INCENTIVE
+   • Offer 20% discount for annual prepay ($144 vs $180)
+   • Improves cash flow and reduces churn
+   • Target 40% of paid users on annual plans
+
+5. REGIONAL PRICING STRATEGY (INDIA FOCUS)
+   • Problem: Standard $15/mo is high friction for Indian market (~₹1,250)
+   • Strategy: Implement Purchasing Power Parity (PPP) pricing
+   • Offer: Pro Plan at ₹499/month (approx $6) for users in India
+   • Rationale: Lower barrier to entry for large volume of Indian PhD scholars
+   • Impact: Increases adoption in the beachhead market while maintaining global ARPU

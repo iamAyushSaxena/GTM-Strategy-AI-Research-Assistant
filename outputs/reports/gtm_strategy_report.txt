@@ -1,0 +1,196 @@
+================================================================================
+90-DAY GO-TO-MARKET STRATEGY
+================================================================================
+
+🎯 EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Total Duration: 90 days (12 weeks)
+Total Budget: $50,000
+Target Users: 5,000
+Target Paying Customers: 500
+Target MRR: $7500
+
+
+📅 PHASE BREAKDOWN
+--------------------------------------------------------------------------------
+
+PRIVATE BETA & PRODUCT-MARKET FIT
+   Duration: Days 1-30
+   Budget: $5,000
+   Goals:
+      • Recruit 100 researchers for private beta
+      • Achieve 40% Day-7 activation
+      • Validate core value proposition
+      • Refine UX based on feedback
+
+   Key Tactics:
+      • Recruit via Academic Twitter, Reddit (r/PhD, r/GradSchool)
+      • Partner with 3 university research labs
+      • Daily user interviews (5 per week)
+
+   Success Metrics:
+      • signups: 100
+      • activation_rate: 40.0%
+      • avg_knowledge_graph_size: 50
+      • nps: 40
+
+PUBLIC LAUNCH & AWARENESS
+   Duration: Days 31-60
+   Budget: $15,000
+   Goals:
+      • Product Hunt #1 Product of the Day
+      • 1,000 sign-ups in first week
+      • Establish SEO foundation
+      • Build early case studies
+
+   Key Tactics:
+      • Product Hunt launch (Tuesday, optimized)
+      • Launch blog: "How PhD students finish lit reviews 60% faster"
+      • SEO content: 10 articles targeting "AI research tools"
+
+   Success Metrics:
+      • signups: 1,000
+      • product_hunt_ranking: 1
+      • free_to_paid: 8.0%
+      • cac_blended: 45
+
+PAID ACQUISITION & SCALING
+   Duration: Days 61-90
+   Budget: $30,000
+   Goals:
+      • 5,000 total users
+      • 10% free-to-paid conversion
+      • CAC payback < 4 months
+      • Prepare for Series A fundraising
+
+   Key Tactics:
+      • Google Ads: High-intent keywords ("AI literature review tool")
+      • Referral program: 1 month free for 3 successful referrals
+      • Influencer partnerships: Academic YouTubers
+
+   Success Metrics:
+      • signups_total: 5,000
+      • paying_customers: 500
+      • mrr: 7,500
+      • cac_optimized: 35
+      • payback_months: 330.0%
+
+
+📡 ACQUISITION CHANNELS
+--------------------------------------------------------------------------------
+
+Product Hunt (Launch Platform)
+   Expected Users: 800
+   CAC: $20
+   Budget: $5,000
+   Timeline: Week 6
+   Success: #1 Product of the Day, 800+ upvotes
+
+SEO & Content Marketing (Organic)
+   Expected Users: 1,200
+   CAC: $15
+   Budget: $10,000
+   Timeline: Weeks 5-12
+   Success: 500+ organic visitors/week by Month 3
+
+Google Ads (Search) (Paid)
+   Expected Users: 1,500
+   CAC: $50
+   Budget: $25,000
+   Timeline: Weeks 9-12
+   Success: CAC < $50, Conversion rate > 8%
+
+Referral Program (Viral)
+   Expected Users: 600
+   CAC: $10
+   Budget: $3,000
+   Timeline: Weeks 3-12
+   Success: Viral coefficient > 0.3
+
+Social Media (Twitter, Reddit) (Community)
+   Expected Users: 500
+   CAC: $25
+   Budget: $8,000
+   Timeline: Weeks 1-12
+   Success: 2000+ engaged followers by Month 3
+
+Academic Partnerships (B2B)
+   Expected Users: 400
+   CAC: $30
+   Budget: $4,000
+   Timeline: Weeks 7-12
+   Success: 3+ partnerships, 400+ users
+
+
+📊 WEEK-BY-WEEK ROADMAP
+--------------------------------------------------------------------------------
+
+WEEK 1: Beta Recruitment
+   Phase: Phase 1: Private Beta
+   Budget: $500
+   Tasks: 5 tasks
+
+WEEK 2: First User Cohort
+   Phase: Phase 1: Private Beta
+   Budget: $1,000
+   Tasks: 5 tasks
+
+WEEK 3: Product Iteration
+   Phase: Phase 1: Private Beta
+   Budget: $1,500
+   Tasks: 5 tasks
+
+WEEK 4: PMF Validation
+   Phase: Phase 1: Private Beta
+   Budget: $2,000
+   Tasks: 5 tasks
+
+WEEK 5: Launch Prep
+   Phase: Phase 2: Public Launch
+   Budget: $3,000
+   Tasks: 5 tasks
+
+WEEK 6: Product Hunt Launch
+   Phase: Phase 2: Public Launch
+   Budget: $5,000
+   Tasks: 5 tasks
+
+WEEK 7: SEO Foundation
+   Phase: Phase 2: Public Launch
+   Budget: $4,000
+   Tasks: 5 tasks
+
+WEEK 8: Partnership Development
+   Phase: Phase 2: Public Launch
+   Budget: $3,000
+   Tasks: 5 tasks
+
+WEEK 9: Google Ads Launch
+   Phase: Phase 3: Paid Acquisition
+   Budget: $6,000
+   Tasks: 5 tasks
+
+WEEK 10: Conversion Optimization
+   Phase: Phase 3: Paid Acquisition
+   Budget: $8,000
+   Tasks: 5 tasks
+
+WEEK 11: Influencer & PR
+   Phase: Phase 3: Paid Acquisition
+   Budget: $10,000
+   Tasks: 5 tasks
+
+WEEK 12: Scale & Optimize
+   Phase: Phase 3: Paid Acquisition
+   Budget: $6,000
+   Tasks: 5 tasks
+
+
+✅ SUCCESS CRITERIA (90-Day Targets)
+--------------------------------------------------------------------------------
+Total Sign-ups: 5,000
+Activated Users: 2000
+Paying Customers: 500
+Monthly Recurring Revenue: $7,500
+Day-7 Retention: 35%
+NPS: 200

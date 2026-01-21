@@ -1,0 +1,39 @@
+competitor_id,name,category,factor,impact,implications
+notion_ai,Notion AI,Strengths,Massive distribution (30M users),High,Can cross-sell AI to existing base
+notion_ai,Notion AI,Strengths,Strong collaboration features,High,Dominates team use cases
+notion_ai,Notion AI,Weaknesses,Generalist platform (not specialized),Medium,Vulnerable to vertical specialists
+notion_ai,Notion AI,Weaknesses,AI feels bolted-on to existing UX,Medium,Not AI-native experience
+notion_ai,Notion AI,Opportunities,Expand to enterprise (Notion Enterprise),High,Upmarket move opens space below
+notion_ai,Notion AI,Threats,Microsoft Loop (with Copilot),High,Office 365 bundle threat
+mem_ai,Mem.ai,Strengths,AI-native from day one,High,UX designed around AI
+mem_ai,Mem.ai,Strengths,Automatic linking is best-in-class,Medium,Low friction note-taking
+mem_ai,Mem.ai,Weaknesses,Small user base (100K),Medium,Limited network effects
+mem_ai,Mem.ai,Weaknesses,Horizontal positioning (everyone),Medium,No clear niche ownership
+mem_ai,Mem.ai,Opportunities,Add team features,High,Expand TAM significantly
+mem_ai,Mem.ai,Threats,High API costs ($3-5 per user),High,Unit economics challenge
+obsidian,Obsidian,Strengths,Local-first (privacy),High,Trusted by privacy-conscious users
+obsidian,Obsidian,Strengths,Plugin ecosystem,High,Extensible for power users
+obsidian,Obsidian,Weaknesses,Steep learning curve,High,Limited to power users
+obsidian,Obsidian,Weaknesses,AI via plugins (fragmented),Medium,Not cohesive AI experience
+obsidian,Obsidian,Opportunities,First-party AI integration,High,Could compete better on AI
+obsidian,Obsidian,Threats,Cloud-first competitors easier to use,Medium,Local-first trades off convenience
+our_product,ResearchFlow AI,Strengths,Vertical focus on research synthesis (unique positioning),High,Key differentiator
+our_product,ResearchFlow AI,Strengths,Deep academic database integration,Medium,Key differentiator
+our_product,ResearchFlow AI,Strengths,Knowledge graph compounds switching costs,High,Key differentiator
+our_product,ResearchFlow AI,Strengths,Premium pricing justified by specialist value,Medium,Key differentiator
+our_product,ResearchFlow AI,Strengths,Founder has PhD background (domain expertise),Medium,Key differentiator
+our_product,ResearchFlow AI,Weaknesses,New entrant (no brand recognition),Medium,Risk to address
+our_product,ResearchFlow AI,Weaknesses,Smaller team vs Notion (30 vs 200+),Medium,Risk to address
+our_product,ResearchFlow AI,Weaknesses,Limited funding compared to competitors,Medium,Risk to address
+our_product,ResearchFlow AI,Weaknesses,No existing user base to cross-sell,Medium,Risk to address
+our_product,ResearchFlow AI,Weaknesses,Research workflow requires education (long sales cycle),Medium,Risk to address
+our_product,ResearchFlow AI,Opportunities,AI productivity market growing 150% YoY,Medium,Risk to address
+our_product,ResearchFlow AI,Opportunities,Academic researchers underserved (no specialist tool),Medium,Risk to address
+our_product,ResearchFlow AI,Opportunities,API costs declining (improving margins),Medium,Risk to address
+our_product,ResearchFlow AI,Opportunities,Remote work increasing research collaboration needs,Medium,Risk to address
+our_product,ResearchFlow AI,Opportunities,Expand to consultants/journalists after PMF,Medium,Risk to address
+our_product,ResearchFlow AI,Threats,Notion AI could add research features (large distribution),Medium,Risk to address
+our_product,ResearchFlow AI,Threats,ChatGPT $20/month bundles many use cases,Medium,Risk to address
+our_product,ResearchFlow AI,Threats,University budget cuts reduce tool spending,Medium,Risk to address
+our_product,ResearchFlow AI,Threats,Privacy concerns (researchers need data security),Medium,Risk to address
+our_product,ResearchFlow AI,Threats,Switching costs work both ways (hard to migrate users from competitors),High,Risk to address

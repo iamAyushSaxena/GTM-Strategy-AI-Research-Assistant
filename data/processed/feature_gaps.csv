@@ -1,0 +1,16 @@
+feature,our_score,competitor_max,competitor_avg,gap_vs_max,gap_vs_avg,competitive_advantage,differentiation
+Academic Database Integration,10,4,1.7142857142857142,6,8.285714285714286,True,Strong
+Citation Management,10,5,1.5714285714285714,5,8.428571428571429,True,Strong
+Cross-source Synthesis,10,7,4.571428571428571,3,5.428571428571429,True,Strong
+AI Summarization,9,9,7.142857142857143,0,1.8571428571428568,False,Weak
+Custom AI Prompts,8,8,6.0,0,2.0,False,Weak
+Automatic Linking,9,10,8.142857142857142,-1,0.8571428571428577,False,Weak
+API Access,7,8,5.285714285714286,-1,1.7142857142857144,False,Weak
+Knowledge Graph Visualization,9,10,7.857142857142857,-1,1.1428571428571432,False,Weak
+Export Options,9,10,7.285714285714286,-1,1.7142857142857144,False,Weak
+Search Quality,8,9,7.142857142857143,-1,0.8571428571428568,False,Weak
+Mobile App,6,8,6.285714285714286,-2,-0.2857142857142856,False,Weak
+Version History,7,10,6.714285714285714,-3,0.2857142857142856,False,Weak
+Collaboration,5,10,4.714285714285714,-5,0.2857142857142856,False,Weak
+Privacy (Local-first),5,10,4.285714285714286,-5,0.7142857142857144,False,Weak
+Offline Mode,4,10,4.714285714285714,-6,-0.7142857142857144,False,Weak

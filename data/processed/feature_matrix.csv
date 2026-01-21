@@ -1,0 +1,121 @@
+competitor_id,feature,score
+notion_ai,AI Summarization,8
+notion_ai,Cross-source Synthesis,4
+notion_ai,Knowledge Graph Visualization,3
+notion_ai,Automatic Linking,7
+notion_ai,Collaboration,10
+notion_ai,Academic Database Integration,2
+notion_ai,Citation Management,1
+notion_ai,Version History,9
+notion_ai,Mobile App,8
+notion_ai,Offline Mode,6
+notion_ai,API Access,8
+notion_ai,Custom AI Prompts,6
+notion_ai,Export Options,9
+notion_ai,Search Quality,7
+notion_ai,Privacy (Local-first),2
+mem_ai,AI Summarization,9
+mem_ai,Cross-source Synthesis,6
+mem_ai,Knowledge Graph Visualization,7
+mem_ai,Automatic Linking,9
+mem_ai,Collaboration,4
+mem_ai,Academic Database Integration,1
+mem_ai,Citation Management,0
+mem_ai,Version History,5
+mem_ai,Mobile App,7
+mem_ai,Offline Mode,3
+mem_ai,API Access,5
+mem_ai,Custom AI Prompts,7
+mem_ai,Export Options,6
+mem_ai,Search Quality,9
+mem_ai,Privacy (Local-first),3
+reflect,AI Summarization,7
+reflect,Cross-source Synthesis,5
+reflect,Knowledge Graph Visualization,8
+reflect,Automatic Linking,8
+reflect,Collaboration,3
+reflect,Academic Database Integration,0
+reflect,Citation Management,0
+reflect,Version History,8
+reflect,Mobile App,6
+reflect,Offline Mode,5
+reflect,API Access,4
+reflect,Custom AI Prompts,5
+reflect,Export Options,7
+reflect,Search Quality,7
+reflect,Privacy (Local-first),6
+obsidian,AI Summarization,6
+obsidian,Cross-source Synthesis,3
+obsidian,Knowledge Graph Visualization,9
+obsidian,Automatic Linking,10
+obsidian,Collaboration,5
+obsidian,Academic Database Integration,4
+obsidian,Citation Management,5
+obsidian,Version History,10
+obsidian,Mobile App,8
+obsidian,Offline Mode,10
+obsidian,API Access,7
+obsidian,Custom AI Prompts,8
+obsidian,Export Options,10
+obsidian,Search Quality,8
+obsidian,Privacy (Local-first),10
+roam,AI Summarization,5
+roam,Cross-source Synthesis,4
+roam,Knowledge Graph Visualization,10
+roam,Automatic Linking,9
+roam,Collaboration,6
+roam,Academic Database Integration,2
+roam,Citation Management,3
+roam,Version History,7
+roam,Mobile App,5
+roam,Offline Mode,4
+roam,API Access,6
+roam,Custom AI Prompts,4
+roam,Export Options,6
+roam,Search Quality,6
+roam,Privacy (Local-first),4
+napkin_ai,AI Summarization,7
+napkin_ai,Cross-source Synthesis,3
+napkin_ai,Knowledge Graph Visualization,10
+napkin_ai,Automatic Linking,5
+napkin_ai,Collaboration,3
+napkin_ai,Academic Database Integration,0
+napkin_ai,Citation Management,0
+napkin_ai,Version History,4
+napkin_ai,Mobile App,4
+napkin_ai,Offline Mode,2
+napkin_ai,API Access,3
+napkin_ai,Custom AI Prompts,6
+napkin_ai,Export Options,7
+napkin_ai,Search Quality,5
+napkin_ai,Privacy (Local-first),2
+recall,AI Summarization,8
+recall,Cross-source Synthesis,7
+recall,Knowledge Graph Visualization,8
+recall,Automatic Linking,9
+recall,Collaboration,2
+recall,Academic Database Integration,3
+recall,Citation Management,2
+recall,Version History,4
+recall,Mobile App,6
+recall,Offline Mode,3
+recall,API Access,4
+recall,Custom AI Prompts,6
+recall,Export Options,6
+recall,Search Quality,8
+recall,Privacy (Local-first),3
+our_product,AI Summarization,9
+our_product,Cross-source Synthesis,10
+our_product,Knowledge Graph Visualization,9
+our_product,Automatic Linking,9
+our_product,Collaboration,5
+our_product,Academic Database Integration,10
+our_product,Citation Management,10
+our_product,Version History,7
+our_product,Mobile App,6
+our_product,Offline Mode,4
+our_product,API Access,7
+our_product,Custom AI Prompts,8
+our_product,Export Options,9
+our_product,Search Quality,8
+our_product,Privacy (Local-first),5

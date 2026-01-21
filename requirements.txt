@@ -1,0 +1,30 @@
+# Core Data Processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web Application
+streamlit
+streamlit-option-menu
+
+# Data Collection (optional - for real competitor data)
+requests
+beautifulsoup4
+
+# Document Generation
+fpdf
+markdown
+
+# Utilities
+python-dotenv
+openpyxl
+pyyaml
+
+# Development
+jupyter
+pytest
+black
