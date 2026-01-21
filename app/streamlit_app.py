@@ -272,8 +272,7 @@ if selected_page == "Executive Summary":
     st.markdown(
         '<p class="sub-header">📋 Problem Statement</p>', unsafe_allow_html=True
     )
-    st.markdown(
-        """
+    st.markdown("""
     Knowledge workers (academic researchers, PhD students, consultants, journalists) struggle to 
     synthesize information from multiple sources. They collect hundreds of articles, papers, and notes 
     but lack tools to connect insights across sources and resurface relevant knowledge when needed.
@@ -282,8 +281,7 @@ if selected_page == "Executive Summary":
     - Add AI to existing workflows without redesigning UX (incremental, not transformative)
     - Target everyone, failing to solve specific workflows deeply (horizontal, not vertical)
     - Focus on individual note-taking rather than research synthesis (features, not jobs-to-be-done)
-    """
-    )
+    """)
 
     # Opportunity
     st.markdown("")
@@ -292,8 +290,7 @@ if selected_page == "Executive Summary":
     col1, col2 = st.columns(2)
 
     with col1:
-        st.markdown(
-            """
+        st.markdown("""
         **Market Gap:**
         - 7 major competitors, all horizontal platforms
         - No vertical specialist for research synthesis
@@ -304,12 +301,10 @@ if selected_page == "Executive Summary":
         - Cross-source synthesis (unique value)
         - Academic database integration
         - Research knowledge graph (switching costs)
-        """
-        )
+        """)
 
     with col2:
-        st.markdown(
-            """
+        st.markdown("""
         **Business Model:**
         - Freemium: 50 documents free
         - Pro: $15/month (individual researchers)
@@ -320,8 +315,7 @@ if selected_page == "Executive Summary":
         - CAC: $35 (blended across channels)
         - Payback: 3.3 months
         - Gross Margin: 70%
-        """
-        )
+        """)
 
     # Strategic Insight
     st.markdown(
@@ -351,8 +345,7 @@ if selected_page == "Executive Summary":
     )
 
     with tab1:
-        st.markdown(
-            """
+        st.markdown("""
         **Goals:**
         - Recruit 100 beta users (academic researchers)
         - Achieve 40% Day-7 activation
@@ -366,12 +359,10 @@ if selected_page == "Executive Summary":
         - Rapid iteration (2 updates/week)
         
         **Budget:** $5,000
-        """
-        )
+        """)
 
     with tab2:
-        st.markdown(
-            """
+        st.markdown("""
         **Goals:**
         - Product Hunt #1 Product of the Day
         - 1,000 sign-ups in first week
@@ -385,12 +376,10 @@ if selected_page == "Executive Summary":
         - Reddit AMAs
         
         **Budget:** $15,000
-        """
-        )
+        """)
 
     with tab3:
-        st.markdown(
-            """
+        st.markdown("""
         **Goals:**
         - 5,000 total users
         - 10% free-to-paid conversion
@@ -404,8 +393,7 @@ if selected_page == "Executive Summary":
         - Conference presence
         
         **Budget:** $30,000
-        """
-        )
+        """)
 
 elif selected_page == "Market Opportunity":
     st.markdown(
@@ -432,8 +420,7 @@ elif selected_page == "Market Opportunity":
         st.plotly_chart(fig, use_container_width=True)
 
     with col2:
-        st.markdown(
-            f"""
+        st.markdown(f"""
         **TAM (Total Addressable Market)**
         - {MARKET_SIZE['tam']['size']:,} global knowledge workers
         - Source: {MARKET_SIZE['tam']['source']}
@@ -454,8 +441,7 @@ elif selected_page == "Market Opportunity":
         - {int(MARKET_SIZE['som']['size'] * 0.10):,} paying customers
         - ${int(MARKET_SIZE['som']['size'] * 0.10 * 15):,} MRR
         - **${int(MARKET_SIZE['som']['size'] * 0.10 * 15 * 12 / 1_000_000)}M ARR**
-        """
-        )
+        """)
 
     st.markdown("---")
 
@@ -625,8 +611,7 @@ elif selected_page == "Pricing Strategy":
     col1, col2, col3 = st.columns(3)
 
     with col1:
-        st.markdown(
-            """
+        st.markdown("""
         ### FREE
         **$0/month**
         
@@ -641,12 +626,10 @@ elif selected_page == "Pricing Strategy":
         
         ---
         **Target:** Students, explorers
-        """
-        )
+        """)
 
     with col2:
-        st.markdown(
-            """
+        st.markdown("""
         ### PRO ⭐
         **$15/month**
         
@@ -662,12 +645,10 @@ elif selected_page == "Pricing Strategy":
         ---
         **Target:** PhD students, researchers  
         **Save 20%:** $144/year
-        """
-        )
+        """)
 
     with col3:
-        st.markdown(
-            """
+        st.markdown("""
         ### TEAM
         **$30/user/month**
         
@@ -683,8 +664,7 @@ elif selected_page == "Pricing Strategy":
         ---
         **Target:** Research labs  
         **Save 20%:** $288/year
-        """
-        )
+        """)
 
     st.markdown("---")
 
@@ -762,14 +742,12 @@ elif selected_page == "Pricing Strategy":
 
     st.plotly_chart(fig, use_container_width=True)
 
-    st.markdown(
-        """
+    st.markdown("""
     **Pricing Positioning:**
     - **25% premium** vs. average generalist tool ($12)
     - **Justified by vertical value:** Save $1,875/month in researcher time
     - **ROI:** $15 cost → $1,875 value = **125x ROI**
-    """
-    )
+    """)
 
     #    st.markdown("---")
 
@@ -964,32 +942,26 @@ elif selected_page == "90-Day GTM Plan":
         st.markdown("### 📝 Spending Breakdown")
 
         # Create a clean visual list using st.info or markdown
-        st.info(
-            """
+        st.info("""
         **Month 1: Foundation ($5k)**
         - Server Infrastructure setup
         - Initial Content Creation
         - Community Launch events
-        """
-        )
+        """)
 
-        st.info(
-            """
+        st.info("""
         **Month 2: Validation ($15k)**
         - Google Ads testing
         - Influencer partnerships
         - SEO tooling & backlinks
-        """
-        )
+        """)
 
-        st.info(
-            """
+        st.info("""
         **Month 3: Scaling ($30k)**
         - Aggressive retargeting
         - Affiliate program launch
         - Sales team commisions
-        """
-        )
+        """)
 
     # Channel Strategy
     st.markdown(
@@ -1323,8 +1295,7 @@ elif selected_page == "Dashboard":
     col1, col2 = st.columns(2)
 
     with col1:
-        st.markdown(
-            """
+        st.markdown("""
         **Market Position:**
         - ✅ White space in Specialist Individual quadrant
         - ✅ 2 competitors vs. 5 in generalist space
@@ -1336,12 +1307,10 @@ elif selected_page == "Dashboard":
         - Academic database integration (10/10 vs 0-4)
         - Citation management (10/10 vs 0-5)
         - Knowledge graph visualization (9/10 vs 3-10)
-        """
-        )
+        """)
 
     with col2:
-        st.markdown(
-            """
+        st.markdown("""
         **Business Model Health:**
         - ✅ LTV/CAC: 7.2x (Target: >3.0x)
         - ✅ Payback: 3.3 months (Target: <12mo)
@@ -1353,8 +1322,7 @@ elif selected_page == "Dashboard":
         - 500 paying customers (10% conversion)
         - $7,500 MRR ($90K ARR)
         - Break-even: Month 9 projected
-        """
-        )
+        """)
 
     #    st.markdown("---")
 
@@ -1386,8 +1354,6 @@ st.markdown(
         <p>Built with Python, Streamlit, Pandas, NumPy, Plotly, Matplotlib & Seaborn <strong>| Last Updated:</strong> {}</p>
         <p>© 2026 <strong>Ayush Saxena</strong>. All rights reserved.</p>
     </div>
-""".format(
-        datetime.now().strftime("%d-%b-%Y At %I:%M %p")
-    ),
+""".format(datetime.now().strftime("%d-%b-%Y At %I:%M %p")),
     unsafe_allow_html=True,
 )
