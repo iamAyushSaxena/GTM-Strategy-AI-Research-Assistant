@@ -12,20 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        # UPDATED: Only testing modern Python versions
         python-version: ['3.10', '3.11']
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4  # UPDATED: v3 -> v4
     
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5  # UPDATED: v4 -> v5
       with:
         python-version: ${{ matrix.python-version }}
     
     - name: Cache pip packages
-      uses: actions/cache@v3
+      uses: actions/cache@v4  # UPDATED: v3 -> v4
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
@@ -40,9 +39,7 @@ jobs:
     
     - name: Lint with flake8
       run: |
-        # Stop the build if there are Python syntax errors or undefined names
         flake8 src/ app/ scripts/ --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 src/ app/ scripts/ --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     
     - name: Check formatting with black
@@ -54,7 +51,7 @@ jobs:
         pytest tests/ -v --cov=src --cov-report=xml --cov-report=term
         
     - name: Upload coverage to Codecov
-      uses: codecov/codecov-action@v3
+      uses: codecov/codecov-action@v4
       with:
         file: ./coverage.xml
         fail_ci_if_error: false
@@ -63,15 +60,14 @@ jobs:
     name: Build & Generate Reports
     runs-on: ubuntu-latest
     needs: test
-    # Only run build on python 3.11 success to save resources
     if: success()
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4  # UPDATED: v3 -> v4
       
     - name: Set up Python 3.11
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5  # UPDATED: v4 -> v5
       with:
         python-version: '3.11'
         
@@ -82,18 +78,13 @@ jobs:
         
     - name: Run analysis pipeline
       run: |
-        # Create output directories if they don't exist (just in case)
         mkdir -p outputs/reports outputs/dashboards outputs/figures
-        
-        # Run the master script
         python scripts/run_full_analysis.py
     
     - name: Validate reports
       run: |
         python -c "
         from pathlib import Path
-
-        # Check all reports exist
         reports = [
             'outputs/reports/competitive_analysis_summary.txt',
             'outputs/reports/market_sizing_report.txt',
@@ -101,23 +92,21 @@ jobs:
             'outputs/reports/gtm_strategy_report.txt',
             'outputs/reports/financial_model_report.txt'
         ]
-
         for r in reports:
             assert Path(r).exists(), f'Missing report: {r}'
             assert Path(r).stat().st_size > 1000, f'Report too small: {r}'
-
             print('✅ All reports validated')
         "
     
     - name: Archive reports
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4  # UPDATED: v3 -> v4 (The one causing your error)
       with:
         name: gtm-reports
         path: outputs/reports/
         retention-days: 30
     
     - name: Archive dashboards
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4  # UPDATED: v3 -> v4
       with:
         name: gtm-dashboards
         path: outputs/dashboards/
@@ -131,9 +120,7 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4  # UPDATED: v3 -> v4
       
-    # This is a placeholder for actual deployment steps
-    # For now, it just echoes success to verify the pipeline flow
     - name: Deploy to GitHub Pages (Placeholder)
       run: echo "Documentation deployment step would go here"
