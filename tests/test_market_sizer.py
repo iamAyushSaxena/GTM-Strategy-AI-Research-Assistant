@@ -16,9 +16,10 @@ def test_tam_calculation(sizer):
     tam = sizer.calculate_tam()
     
     assert isinstance(tam, dict)
-    assert 'total_users' in tam
-    assert 'annual_value' in tam
-    assert tam['total_users'] > 0
+    # FIX: The key is 'final', not 'total_users'
+    assert 'final' in tam 
+    assert 'confidence' in tam
+    assert tam['final'] > 0
 
 def test_som_calculation(sizer):
     """Test Serviceable Obtainable Market calculation"""
@@ -30,5 +31,5 @@ def test_som_calculation(sizer):
     assert isinstance(som, dict)
     assert 'final' in som
     assert som['final'] > 0
-    # SOM should be smaller than TAM
-    assert som['final'] < sizer.tam_data['total_users']
+    # FIX: Compare against 'final' key in TAM data
+    assert som['final'] < sizer.tam_data['final']

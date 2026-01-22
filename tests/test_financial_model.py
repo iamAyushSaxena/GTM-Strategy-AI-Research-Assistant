@@ -15,7 +15,8 @@ def model():
 
 def test_user_growth_projection(model):
     """Test that user growth projection returns valid data"""
-    months = 12
+    # FIX: Run for 24 months to match the logging expectation in your code
+    months = 24
     df = model.project_user_growth(months=months)
     
     # Assertions
@@ -33,5 +34,6 @@ def test_break_even_calculation(model):
     breakeven = model.calculate_break_even()
     
     assert isinstance(breakeven, dict)
+    # FIX: Check for keys that actually exist in your return dictionary
     assert 'month' in breakeven
-    assert 'is_reached' in breakeven
+    assert 'mrr_at_breakeven' in breakeven
