@@ -1320,7 +1320,7 @@ elif selected_page == "Dashboard":
         **90-Day Targets:**
         - 5,000 total users
         - 500 paying customers (10% conversion)
-        - $7,500 MRR ($90K ARR)
+        - \$7,500 MRR (\$90K ARR)
         - Break-even: Month 9 projected
         """)
 
