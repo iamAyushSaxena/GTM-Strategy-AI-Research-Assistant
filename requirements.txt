@@ -8,7 +8,7 @@ seaborn
 plotly
 
 # Web Application
-streamlit
+streamlit>=1.40.0
 streamlit-option-menu
 
 # Data Collection (optional - for real competitor data)
